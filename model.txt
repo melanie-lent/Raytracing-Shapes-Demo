@@ -1,0 +1,164 @@
+1 // version number
+0 0 200 // eye
+0 0 0 // at
+0 1 0 // up
+1 // distance to near plane
+2000 // distance to far plane
+45	// field of view
+700 // screen_x
+500 // screen_y
+
+2 // number of point lights
+-200 20 200 // light position
+100 60 -120 // light position
+
+20 // number of spheres.
+
+// bottom part of cat's body
+0 -30 0 // origin
+20 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// top part of cat's body
+-7 -33 7 // origin
+17 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// head
+-12 -27 20 // origin
+15 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// muzzle
+-20 -31 32 // origin
+5 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// left-hand eye
+-23 -25 29 // origin
+2 // radius
+.0 .5 .0 // ambient rgb
+.0 .7 .0 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// left-hand ear
+-21 -15 24 // origin
+3 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// right-hand ear
+-8 -15 31 // origin
+3 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// right-hand front paw
+-8 -50 18 // origin
+4 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// left-hand front paw
+-19 -50 11 // origin
+4 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// right-hand eye
+-15 -25 34 // origin
+2 // radius
+.0 .5 .0 // ambient rgb
+.0 .7 .0 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+// right-hand back paw
+10 -50 10 // origin
+4.25 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.0 .5 .0 50 // specular rgb and exponent
+
+
+
+
+// tail 1
+20 -31 0 // origin
+4.5 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 2
+20 -34 3 // origin
+4.75 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 3
+20 -37 6 // origin
+5 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 4
+17 -40 9 // origin
+5.25 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 5
+14 -43 12 // origin
+5.5 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 6
+11 -45 14 // origin
+5.75 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 7
+9 -44 15 // origin
+6 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+// tail 8
+7 -42 17 // origin
+5.75 // radius
+.1 .1 .2 // ambient rgb
+.1 .1 .1 // diffuse rgb
+.5 .5 .5 50 // specular rgb and exponent
+
+
+
+
+// Blue ground
+0 -5050 0 // origin
+5000 // radius
+.1 .1 .2 // ambient rgb
+.2 .1 .6 // Diffuse red, green, blue
+.0 .4 .9 70 // Specular r,g,b and exponent.
+
+
+
